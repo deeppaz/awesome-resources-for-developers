@@ -26,7 +26,7 @@
 
 ## UI Graphics
 
->Super resources that volunteer graphic designers offer to developers will be very useful for you
+>UI Graphics
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
@@ -40,7 +40,7 @@
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## Test Your Website
@@ -61,12 +61,12 @@
 | [Webspeedtest.cloudinary](https://webspeedtest.cloudinary.com/)                                          | Website Speed Test Image Analysis Tool                             |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## Fonts
 
->Websites that offer free fonts as well as font-based tools
+>Fonts
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -84,7 +84,7 @@
 | [Dev Fonts](https://devfonts.gafi.dev/)| Find and use the coding fonts for free |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## Colors
@@ -109,10 +109,17 @@
 
 ## Icons
 
->Resources for Icons including png, svg and more
+>Icons 
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit  |
+| [Line Awesome](https://icons8.com/line-awesome)| Swap in replacement of Font Awesome with modern line icons |
+| [Material Icons](https://material.io/resources/icons/)| Material design icon library |
+| [IonIcons](http://ionicons.com/)| Beautifully crafted open source icons from Ionic team |
+| [Icofont](https://icofont.com/)| 2100+ free icons to spice up your creative designs  |
+| [Jam Icons](https://jam-icons.com/) | 890+ handcrafted icons to make your web app awesome |
+| [Unicons](https://iconscout.com/unicons)| A set of 1100+ Free line style icons available as web font, SVG icons, and as components for JS frameworks like React, Vue and React Native. |
 | [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/)| 8000+ free icons |
 | [Simple Icons](https://simpleicons.org/)| 1307 Free SVG icons for popular brands |
 | [Linear Icons](https://linearicons.com/free)| 1000+ Ultra crisp vector icons |
@@ -144,11 +151,11 @@
 | [iconhub](https://iconhub.io/) | Just practical stunning icons for everyone |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## Logos
->Resources for Logos
+>Logos
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -163,12 +170,12 @@
 | [Free Logo Maker](https://www.namecheap.com/logo-maker/)| Fast, All-in-One Logo Generator |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## Favicons
 
->Resources for Favicons
+>Favicons
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -177,30 +184,12 @@
 | [RealFaviconGenerator](https://realfavicongenerator.net/)| Generate icons for all platforms (Windows, iOS, Android) |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
-
-## Icon Fonts
-
->Resources for Icon Fonts
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
-| ----------------------- | ------------------ |
-| [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit  |
-| [Line Awesome](https://icons8.com/line-awesome)| Swap in replacement of Font Awesome with modern line icons |
-| [Material Icons](https://material.io/resources/icons/)| Material design icon library |
-| [IonIcons](http://ionicons.com/)| Beautifully crafted open source icons from Ionic team |
-| [Icofont](https://icofont.com/)| 2100+ free icons to spice up your creative designs  |
-| [Jam Icons](https://jam-icons.com/) | 890+ handcrafted icons to make your web app awesome |
-| [Unicons](https://iconscout.com/unicons)| A set of 1100+ Free line style icons available as web font, SVG icons, and as components for JS frameworks like React, Vue and React Native. |
-
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## Stock Photos
 
->Websites that offer free stock photos of all kinds for your websites and apps
+>Stock photos
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -229,12 +218,12 @@
 | [Creative Commons](https://search.creativecommons.org) | Search for free images to reuse.
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## Stock Videos
 
->Websites that offer free stock videos of all kinds for your websites and apps
+>Stock videos
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -249,12 +238,12 @@
 | [SplitShire](https://www.splitshire.com/)| Beautiful & exclusive free stock videos & photos |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## Stock Music & Sound Effects
 
->Websites that offer free stock music and/or sound effects
+>Free stock music and sound effects
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -265,7 +254,7 @@
 | [Unminus](https://www.unminus.com/)| Free Premium Music for Your Projects 🎁 Royalty Free. Cleared for YouTube. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## Vectors & Clip Art
@@ -281,7 +270,7 @@
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## Product & Image Mockups
@@ -300,7 +289,7 @@
 | [Device Shots](https://deviceshots.com/)| Create high-resolution device mockups for social media, for free |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## HTML & CSS Templates
@@ -337,7 +326,7 @@
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## CSS Frameworks
@@ -389,7 +378,7 @@
 | [Paper CSS](https://github.com/cognitom/paper-css) | Front-end printing solution |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## CSS Animations
@@ -419,7 +408,7 @@
 | [AnimXYZ](https://animxyz.com/)| AnimXYZ helps you create, customize, and compose animations for your website. Built for Vue, React, SCSS, and CSS |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## Javascript Animation Libraries
@@ -451,7 +440,7 @@
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## UI Components & Kits
@@ -496,7 +485,7 @@
 | [Daemonites Material Design For Bootstrap](https://http://daemonite.github.io/material/)| Daemonite's Material UI is a cross-platform and fully responsive front-end interface based on Google Material Design developed using Bootstrap 4 |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 
@@ -550,7 +539,7 @@
 | [Sha-el-design](https://github.com/sha-el/sha-el-design)| React components for easier customization and smooth development flow. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## Vue UI
@@ -583,7 +572,7 @@
 | [Equal UI](https://quatrochan.github.io/Equal/) | Open-source Vue 3 components system for your next project based on TypeScript |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## Design Systems & Style Guides
@@ -630,7 +619,7 @@
 | [Pr1mer Guidelines](https://guidelines.pr1mer.tech) | An open source set of very general guidelines, inspired by Human Interface. Created and maintained by Pr1mer Tech |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 ## Online Design Tools
@@ -691,7 +680,7 @@
 | [Carbon](https://carbon.now.sh)| Create and share beautiful images of your source code by typing or drop a file. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>
 
 
@@ -742,5 +731,5 @@
 | [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/) | An interactive list of Bootstrap classes, variables, and mixins. The only Bootstrap CheatSheet you will ever need. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">Back To Top</a></b>
 </div>

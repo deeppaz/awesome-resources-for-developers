@@ -93,15 +93,10 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [meodai](https://meodai.github.io/color-names/)| A handpicked list of 27462 unique color names |
 | [Colormind.io](http://colormind.io)| Color palette generator |
-| [Web Gradients](https://webgradients.com/)| A free website to find good CSS gradients |
-| [Material Design Palette Generator](http://mcg.mbitson.com) | Generate theme and color palette Material Design-like |
 | [0to255](https://www.0to255.com/) | A color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more. |
-| [Color Blender](https://meyerweb.com/eric/tools/color-blend) | A tool that shows the midpoint colors between two colors
-| [Saruwakakun](https://saruwakakun.com/en/color-ideas) | The stunning color scheme for website & App Designs with previews |
 | [Paletton](https://paletton.com/)| Paletton.com is a designer color tool designed for creating color combinations that work together well.|
-| [Colorzilla](https://www.colorzilla.com/) | A powerful online Photoshop-like CSS gradient editor |
-| [Image Color Picker](https://image-color.com/) | Image color picker and palette generator |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

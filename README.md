@@ -154,12 +154,6 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [Instant Logo Search](http://instantlogosearch.com/)| Thousands of free brands logos ( SVG - PNG ) |
-| [LogoSear.ch](https://logosear.ch/search.html) | Search engine with over 200,000 SVG logos indexed |
-| [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
-| [Browser Logos](https://github.com/alrra/browser-logos/) | High resolution web browser logos |
-| [LogoHub](https://logohub.io/) | Generate and download your logo for free in PNG and SVG format |
-| [VectorLogoZone](https://www.vectorlogo.zone/) | Consistently formatted SVG logos |
 | [World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love |
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Free Logo Maker](https://www.namecheap.com/logo-maker/)| Fast, All-in-One Logo Generator |

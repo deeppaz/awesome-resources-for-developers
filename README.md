@@ -37,6 +37,7 @@
 | [Drawkit.io](https://www.drawkit.io/)                                                                    | Illustrations for designers and startups                           |
 | [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create  |
 | [Manypixels.co](https://www.manypixels.co/gallery/)                                                      | Monochromatic, Isometric high-quality illustrations                |
+| [flexiple.com](https://2.flexiple.com/scale/all-illustrations/)                                                      | One new high-quality, open-source illustration each day. Use our color-picker to adapt the illustrations to your brand identity!  illustrations                |
 | [Open Peeps](https://www.openpeeps.com/)                                                                 | Hand drawn illustration library                                    |
 
 
